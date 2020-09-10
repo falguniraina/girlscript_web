@@ -10,7 +10,7 @@
 ## Welcome! 
 Our day just got better. Thank you for visiting GirlScript repository, it’s our pleasure to have you here. :)
 
-If you are a someone who love to help people, who is techie, full of ideas and resources to share your knowledge with others, then you are at right place! We are looking for people like you, who love to learn and teach as well. Read below for more :D
+If you are someone who loves to help people, who is techie, full of ideas and resources to share your knowledge with others, then you are at right place! We are looking for people like you, who love to learn and teach as well. Read below for more :D
 
 * [Introduction](#introduction)
 * [Why does this project exist?](#why-does-this-project-exist)
@@ -24,7 +24,7 @@ If you are a someone who love to help people, who is techie, full of ideas and r
 ## Introduction
 GirlScript is a project being developed under the Mozilla Open Leadership Program, is a registered Non-Profit Organisation in India to support beginners in technology and ensure equality in tech.
 
-The project is designed to help and guide people who want to improve their technical skills. As the name indicates, it helps women to learn and improve their technical skiltells them about different opportunities available for them in the world outside. Through this project, we want to develop an online platform for GirlScript, our offline trainings have already begun in 3 cities of India.
+The project is designed to help and guide people who want to improve their technical skills. As the name indicates, it helps women to learn and improve their technical skills and tell them about different opportunities available for them in the world outside. Through this project, we want to develop an online platform for GirlScript, our offline trainings have already begun in 3 cities of India.
 
 ## Why does this project exist?
 - Lack of diversity in field of tech
@@ -33,7 +33,7 @@ The project is designed to help and guide people who want to improve their techn
 - To reduce noise presence on the internet and help those who really want to learn and get inspired by others
 
 ## What we plan to do about it?
-- To conduct offline workshops by establishing GirlScript chapters in different cities of India
+- To conduct an offline workshops by establishing GirlScript chapters in different cities of India
 - To create an online platform for helping international students providing different courses and a chatroom 
 - Send newsletter to all the subscribed users to make them aware about different opportunities
 - Create a technical blog section and get inspired section for interviews
